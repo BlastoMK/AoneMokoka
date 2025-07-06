@@ -7,13 +7,13 @@
 
 ## 👨‍💻 About Me
 
-Hey there! I’m **Aone Mokoka**, a passionate **Computer Systems Engineering graduate** specializing in:
+Hey there! I’m **Blasto MK**, formally known as **Aone Mokoka** ,a passionate **Computer Systems Engineering graduate** who thrives in:
 
-- 🧠 **Frontend Development** – building modern UIs with React, Next.js, and TailwindCSS  
-- 📱 **Mobile Development** – creating cross-platform apps using Flutter and React Native  
-- 💻 **Software Engineering** – REST APIs, cloud tools, and scalable system design  
+- 🧠 **Frontend Development** – modern UI magic with React, TailwindCSS & Next.js  
+- 📱 **Mobile Development** – cross-platform experiences using Flutter & React Native  
+- 💻 **Software Engineering** – scalable backends, APIs & smart database structures  
 
-I love combining design and code to deliver clean, user-friendly digital experiences.
+I love building intuitive interfaces and smooth user flows that *look as good as they work*.
 
 ---
 
@@ -44,41 +44,36 @@ I love combining design and code to deliver clean, user-friendly digital experie
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **📁 RMU Web App** | A role-based records management tool for secure document tracking | React, Firebase, Tailwind |
-| **🛍️ Manyora’s Store** | E-commerce poster & design for gadgets & clothing store | Figma, Photoshop |
-| **📱 Mobile Chat App** | Real-time chat with notifications and auth | Flutter, Firebase |
-| **📑 CV Request Form** | Users request my CV through a form with email automation | Supabase, Resend |
+| **📁 RMU Web App** | Secure record tracking system with roles and reporting | React, Firebase, Tailwind |
+| **🛍️ Manyora’s Store** | Online gadget & clothing store branding | Figma, Photoshop |
+| **📱 Chat App** | Real-time chat with notifications and auth | Flutter, Firebase |
+| **📑 CV Request System** | Automated CV email sender using Resend | Supabase, Edge Functions |
 
-> Explore more in my [Pinned Repositories](https://github.com/blasto-mk?tab=repositories)
+> 🔍 View more in my [GitHub Projects](https://github.com/blasto-mk?tab=repositories)
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Dashboard (Cyberpunk Edition)
 
-<!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blasto-mk&show_icons=true&theme=tokyonight&hide=issues&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=blasto-mk&show_icons=true&theme=radical&hide_border=false&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=blasto-mk&theme=tokyonight&hide_border=false&border_radius=12" width="48%" />
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasto-mk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<!-- Contribution Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blasto-mk&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasto-mk&layout=compact&theme=radical&hide_border=false&border_radius=12" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blasto-mk&theme=tokyonight" width="48%" />
 </p>
 
 ---
 
-## 💡 Let's Connect!
+## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](https://blasto-portfolio.lovable.app)
-- 📫 [Email Me](mailto:aonemokoka@gmail.com)
-- 🐦 [Twitter/X](https://twitter.com/) *(if applicable)*
-- 🧪 Currently experimenting with AI tools and edge functions 🚀
+- 📩 [aonemokoka@gmail.com](mailto:aonemokoka@gmail.com)
+- 💬 Available for freelance work, collaboration, or code talk
 
 ---
 
-> *"Design like an artist, code like an engineer."* 
+> 🧠 *“Design like an artist, code like an engineer.”*  
+
