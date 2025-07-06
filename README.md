@@ -49,20 +49,20 @@ I love building intuitive interfaces and smooth user flows that *look as good as
 | **📱 Chat App** | Real-time chat with notifications and auth | Flutter, Firebase |
 | **📑 CV Request System** | Automated CV email sender using Resend | Supabase, Edge Functions |
 
-> 🔍 View more in my [GitHub Projects](https://github.com/blasto-mk?tab=repositories)
+> 🔍 View more in my [GitHub Projects](https://github.com/BlastoMK?tab=repositories)
 
 ---
 
-## ⚡ GitHub Dashboard (Cyberpunk Edition)
+## ⚡ GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=blasto-mk&show_icons=true&theme=radical&hide_border=false&border_radius=12" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=blasto-mk&theme=tokyonight&hide_border=false&border_radius=12" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BlastoMK&show_icons=true&theme=radical&hide_border=false&border_radius=12" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BlastoMK&theme=tokyonight&hide_border=false&border_radius=12" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blasto-mk&layout=compact&theme=radical&hide_border=false&border_radius=12" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blasto-mk&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlastoMK&layout=compact&theme=radical&hide_border=false&border_radius=12" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlastoMK&theme=tokyonight" width="48%" />
 </p>
 
 ---
